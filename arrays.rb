@@ -11,3 +11,5 @@ puts f2.push(6,8)
 puts f3.shift(2)
 #This will add false in the beginning of the variable f4
 puts f4.unshift(false)
+#Index positions start from 0 with the increment of 1 so from f1 array "Adam" would be in index position 1
+puts f1[1]

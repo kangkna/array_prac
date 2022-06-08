@@ -13,3 +13,5 @@ puts f3.shift(2)
 puts f4.unshift(false)
 #Index positions start from 0 with the increment of 1 so from f1 array "Adam" would be in index position 1
 puts f1[1]
+#take function brings out the elements in the array
+puts f1.take(3)
